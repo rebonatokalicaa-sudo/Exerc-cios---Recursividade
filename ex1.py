@@ -1,4 +1,3 @@
-# Versão com variável global
 total_elementos = 0
 
 def analisar_numeros(lista):
